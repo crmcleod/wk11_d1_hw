@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5427a47d-f47d-4696-a736-740368b1b7d9" name="Default Changelist" comment="" />
+    <list default="true" id="5427a47d-f47d-4696-a736-740368b1b7d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ex8hRG9tt78Nss6DXTpszvagQR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -111,30 +118,34 @@
       <screen x="-1920" y="-53" width="1920" height="1057" />
     </state>
     <state x="-974" y="43" key="#Project_Structure/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595253024529" />
-    <state width="1170" height="192" key="GridCell.Tab.0.bottom" timestamp="1595258014406">
+    <state width="1170" height="192" key="GridCell.Tab.0.bottom" timestamp="1595258190442">
       <screen x="-1920" y="-53" width="1920" height="981" />
     </state>
     <state width="1106" height="192" key="GridCell.Tab.0.bottom/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254454049" />
     <state width="1170" height="192" key="GridCell.Tab.0.bottom/0.23.1440.814/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595256066840" />
-    <state width="1170" height="192" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595258014406" />
-    <state width="1170" height="192" key="GridCell.Tab.0.center" timestamp="1595258014405">
+    <state width="1170" height="192" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595258190442" />
+    <state width="1170" height="192" key="GridCell.Tab.0.center" timestamp="1595258190441">
       <screen x="-1920" y="-53" width="1920" height="981" />
     </state>
     <state width="1106" height="192" key="GridCell.Tab.0.center/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254454047" />
     <state width="1170" height="192" key="GridCell.Tab.0.center/0.23.1440.814/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595256066839" />
-    <state width="1170" height="192" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595258014405" />
-    <state width="1170" height="192" key="GridCell.Tab.0.left" timestamp="1595258014404">
+    <state width="1170" height="192" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595258190441" />
+    <state width="1170" height="192" key="GridCell.Tab.0.left" timestamp="1595258190441">
       <screen x="-1920" y="-53" width="1920" height="981" />
     </state>
     <state width="1106" height="192" key="GridCell.Tab.0.left/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254454047" />
     <state width="1170" height="192" key="GridCell.Tab.0.left/0.23.1440.814/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595256066839" />
-    <state width="1170" height="192" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595258014404" />
-    <state width="1170" height="192" key="GridCell.Tab.0.right" timestamp="1595258014406">
+    <state width="1170" height="192" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595258190441" />
+    <state width="1170" height="192" key="GridCell.Tab.0.right" timestamp="1595258190442">
       <screen x="-1920" y="-53" width="1920" height="981" />
     </state>
     <state width="1106" height="192" key="GridCell.Tab.0.right/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254454048" />
     <state width="1170" height="192" key="GridCell.Tab.0.right/0.23.1440.814/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595256066840" />
-    <state width="1170" height="192" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595258014406" />
+    <state width="1170" height="192" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595258190442" />
+    <state x="-913" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1595261219018">
+      <screen x="-1920" y="-53" width="1920" height="981" />
+    </state>
+    <state x="-913" y="210" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-1920.-53.1920.981@-1920.-53.1920.981" timestamp="1595261219018" />
     <state x="-909" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1595254232589">
       <screen x="-1920" y="-53" width="1920" height="1057" />
     </state>
