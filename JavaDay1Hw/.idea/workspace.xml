@@ -35,7 +35,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaDay1Hw" />
       <option name="PACKAGE_NAME" value="" />
@@ -45,9 +45,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorTest.canDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaDay1Hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="canDivide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.canDivide" />
       </list>
     </recent_temporary>
   </component>
@@ -69,21 +80,25 @@
       <screen x="-1920" y="-53" width="1920" height="1057" />
     </state>
     <state x="-974" y="43" key="#Project_Structure/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595253024529" />
-    <state width="1106" height="192" key="GridCell.Tab.0.bottom" timestamp="1595253638004">
+    <state width="1106" height="192" key="GridCell.Tab.0.bottom" timestamp="1595254454049">
       <screen x="-1920" y="-53" width="1920" height="1057" />
     </state>
-    <state width="1106" height="192" key="GridCell.Tab.0.bottom/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595253638004" />
-    <state width="1106" height="192" key="GridCell.Tab.0.center" timestamp="1595253638003">
+    <state width="1106" height="192" key="GridCell.Tab.0.bottom/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254454049" />
+    <state width="1106" height="192" key="GridCell.Tab.0.center" timestamp="1595254454047">
       <screen x="-1920" y="-53" width="1920" height="1057" />
     </state>
-    <state width="1106" height="192" key="GridCell.Tab.0.center/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595253638003" />
-    <state width="1106" height="192" key="GridCell.Tab.0.left" timestamp="1595253638003">
+    <state width="1106" height="192" key="GridCell.Tab.0.center/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254454047" />
+    <state width="1106" height="192" key="GridCell.Tab.0.left" timestamp="1595254454047">
       <screen x="-1920" y="-53" width="1920" height="1057" />
     </state>
-    <state width="1106" height="192" key="GridCell.Tab.0.left/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595253638003" />
-    <state width="1106" height="192" key="GridCell.Tab.0.right" timestamp="1595253638004">
+    <state width="1106" height="192" key="GridCell.Tab.0.left/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254454047" />
+    <state width="1106" height="192" key="GridCell.Tab.0.right" timestamp="1595254454048">
       <screen x="-1920" y="-53" width="1920" height="1057" />
     </state>
-    <state width="1106" height="192" key="GridCell.Tab.0.right/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595253638004" />
+    <state width="1106" height="192" key="GridCell.Tab.0.right/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254454048" />
+    <state x="-909" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1595254232589">
+      <screen x="-1920" y="-53" width="1920" height="1057" />
+    </state>
+    <state x="-909" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.812/-1920.-53.1920.1057@-1920.-53.1920.1057" timestamp="1595254232589" />
   </component>
 </project>
