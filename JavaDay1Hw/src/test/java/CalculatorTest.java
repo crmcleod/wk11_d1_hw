@@ -7,18 +7,18 @@ public class CalculatorTest {
     private Calculator calculator;
 
     @Before
-    public void before() {this.calculator = new Calculator(5, 5, 6.66, 3.00);}
+    public void before() {this.calculator = new Calculator();}
 
     @Test
-    public void canAdd(){ assertEquals(10, calculator.add()); }
+    public void canAdd(){ assertEquals(10, calculator.add(5,5)); }
 
     @Test
-    public void canSubtract(){ assertEquals(0, calculator.subtract());}
+    public void canSubtract(){ assertEquals(0, calculator.subtract(5,5));}
 
     @Test
-    public void canMultiply(){ assertEquals(25, calculator.multiply());}
+    public void canMultiply(){ assertEquals(25, calculator.multiply(5,5));}
 
     @Test
-    public void canDivide(){ assertEquals(2.22, calculator.divide(), 0.01);}
+    public void canDivide(){ assertEquals(2.22, calculator.divide(6.66, 3.00), 0.01);}
 }
 
